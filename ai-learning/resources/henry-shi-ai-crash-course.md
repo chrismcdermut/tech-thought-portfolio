@@ -49,8 +49,6 @@ For more context, checkout the [original twitter thread](https://x.com/henrythe9
 [SWE-Bench](https://arxiv.org/pdf/2310.06770) (Real world software development) \- 2023  
 [Chatbot Arena](https://arxiv.org/pdf/2403.04132) (Live human preference Elo ratings) \- 2024
 
-<hr />
-
 **Videos/Lectures:**  
 [3Blue1Brown on Foundational Math/Concepts](https://www.youtube.com/@3blue1brown)  
 [Build a Large Language Model (from Scratch) \#1 Bestseller](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167)  

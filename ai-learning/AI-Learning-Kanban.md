@@ -6,12 +6,11 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] **1. Scaling Laws*** (2020) - Empirical scaling relationships `#foundational`
+- [ ] **3. RLHF*** (2022) - InstructGPT->ChatGPT breakthrough `#foundational`
 
 
 ## 🔴 Essential Papers (Read these in order!)
 
-- [ ] **3. RLHF*** (2022) - InstructGPT->ChatGPT breakthrough `#foundational`
 - [ ] **4. MuZero*** (2019) - RL without prior knowledge `#planning-reasoning`
 - [ ] **5. CoT*** (2022) - Chain of Thought prompting `#planning-reasoning`
 - [ ] **6. ARC-Prize*** (2024) - Latest AGI problem solving `#planning-reasoning`
@@ -38,6 +37,7 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] **1. Scaling Laws*** (2020) - Empirical scaling relationships `#foundational`
 - [ ] **2. GPT-3*** (2020) - Few-shot learning at scale `#foundational`
 - [x] Read **Agent Survey** - Understand agentic patterns
 - [x] Read **LLM Survey** - Architecture evolution (GPT → GPT-4)
