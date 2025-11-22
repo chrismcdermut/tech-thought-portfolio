@@ -6,26 +6,21 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] **3. RLHF*** (2022) - InstructGPT->ChatGPT breakthrough `#foundational`
+- [ ] Training Compute-Optimal LLMs (2022)
+- [ ] **8. Llama3*** (2024) - In-depth build details `#applications`
 
 
 ## 🔴 Essential Papers (Read these in order!)
 
-- [ ] **4. MuZero*** (2019) - RL without prior knowledge `#planning-reasoning`
-- [ ] **5. CoT*** (2022) - Chain of Thought prompting `#planning-reasoning`
-- [ ] **6. ARC-Prize*** (2024) - Latest AGI problem solving `#planning-reasoning`
-- [ ] **7. DeepSeek R1*** (2025) - OSS o1-level reasoning `#planning-reasoning`
-- [ ] **8. Llama3*** (2024) - In-depth build details `#applications`
 
 
 ## 🟡 Optional Papers (Reference when needed)
 
-- [ ] LoRA (2021) - Fine tuning
-- [ ] Training Compute-Optimal LLMs (2022)
 - [ ] DPO (2023) - Alternative to RLHF
 - [ ] LLM-as-Judge (2023)
 - [ ] MoE (2024)
 - [ ] ToT/GoT (2023) - Thought variations
+- [ ] 
 - [ ] ReACT (2022) - Tool use
 - [ ] Let's Verify Step by Step (2023)
 - [ ] Toolformer (2023)
@@ -37,6 +32,13 @@ kanban-plugin: board
 
 ## Done
 
+- [ ] LoRA (2021) - Fine tuning
+- [ ] **7. DeepSeek R1*** (2025) - OSS o1-level reasoning `#planning-reasoning`
+- [ ] **6. ARC-Prize*** (2024) - Latest AGI problem solving `#planning-reasoning`
+- [ ] **5. CoT*** (2022) - Chain of Thought prompting `#planning-reasoning`
+- [ ] alphaZero
+- [ ] **4. MuZero*** (2019) - RL without prior knowledge `#planning-reasoning`
+- [ ] **3. RLHF*** (2022) - InstructGPT->ChatGPT breakthrough `#foundational`
 - [ ] **1. Scaling Laws*** (2020) - Empirical scaling relationships `#foundational`
 - [ ] **2. GPT-3*** (2020) - Few-shot learning at scale `#foundational`
 - [x] Read **Agent Survey** - Understand agentic patterns
