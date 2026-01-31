@@ -1,0 +1,1 @@
+is n8n or zapier based on any particalr underlying data model or data structure? what data structurtes hsoul di look at for workflows?
